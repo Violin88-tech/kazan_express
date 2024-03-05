@@ -2,7 +2,7 @@ from selene import browser, be, have
 from kazan_express_suites.data.data_cards import Texts
 
 import allure
-import time
+
 
 
 class MainPage:
@@ -13,7 +13,7 @@ class MainPage:
     def open_url(self):
         with allure.step("Открываем главную страницу"):
             browser.open('/')
-        time.sleep(2)
+
 
     def search(self, value):
         with allure.step(f"Ищем товар {value}"):
