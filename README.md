@@ -1,8 +1,8 @@
 <h1 align="center">Проект по тестированию онлайн-магазина 
 <p align="center">
-<a href="https://www.chitai-gorod.ru/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%A7%D0%B8%D1%82%D0%B0%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg" 
-alt="chitai-gorod" width="340" height="164"> </a> 
+<a href="" target="_blank">
+<img src="" 
+alt="" width="340" height="164"> </a> 
 </p></h1>
 
 ### Список реализованных автотестов
@@ -19,7 +19,7 @@ alt="chitai-gorod" width="340" height="164"> </a>
 | <img src="/images/python-original.svg" alt="Python" width="45" height="45"> | <img src="/images/pytest-original.svg" alt="Pytest" width="45" height="45"> | <img src="/images/PyCharm_Icon.svg" alt="Pycharm" width="45" height="45"> | <img src="/images/selenoid.png" alt="Selene" width="45" height="45"> | <img src="/images/jenkins-original.svg" alt="Jenkins" width="45" height="45"> | <img src="/images/allure.png" alt="Allure" width="45" height="45"> | <img src="/images/telegram.svg" alt="Telegram" width="45" height="45"> |
 
 ## Запуск автотестов выполняется на сервере Jenkins
-> <a target="_blank" href="https://jenkins.autotests.cloud/job/C09-dasha_korobok-python_unit15_ui_project_chitai-gorod/">Ссылка на проект в Jenkins</a>
+> <a target="_blank" href="https://jenkins.autotests.cloud/job/>Ссылка на проект в Jenkins</a>
 
 ### Для запуска автотестов в Jenkins
 1. Открыть проект и выбрать пункт "Собрать с параметрами"
@@ -32,7 +32,7 @@ alt="chitai-gorod" width="340" height="164"> </a>
 ### Локальный запуск автотестов
 1. Клонируйте репозиторий
   ```ruby
-  git clone https://github.com/DariaSkorobogatova/qa_guru_python_9_15.git
+  git clone https://
   ```
 2. Создайте и активируйте виртуальное окружение
   ```ruby
